@@ -1,2 +1,2 @@
-# titanic-survival-analysis
+# Titanic-Survival-Analysis
 End to end ML project analyzing Titanic survival factors using logistic regression
